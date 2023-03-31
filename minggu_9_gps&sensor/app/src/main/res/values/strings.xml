@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gpd</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="label_brightness">Level : %1$.2f lux</string>
+</resources>

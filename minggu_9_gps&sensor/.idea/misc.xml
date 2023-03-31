@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/gpd/app/src/main/res/drawable/ic_format_list.xml" value="0.231" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/gpd/app/src/main/res/drawable/ic_highlight.xml" value="0.1945" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/gpd/app/src/main/res/layout/activity_all_sensor.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/gpd/app/src/main/res/layout/activity_light_sensor.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/gpd/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/gpd/app/src/main/res/layout/activity_main2.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/gpd/app/src/main/res/layout/activity_maps.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/gpd/app/src/main/res/layout/item_sensor.xml" value="0.2234375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/gpd/app/src/main/res/xml/file_paths.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
