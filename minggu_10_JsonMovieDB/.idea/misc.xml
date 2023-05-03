@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/drawable/bg_rounded.xml" value="0.2212962962962963" />
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/drawable/design_header.xml" value="0.2212962962962963" />
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/drawable/ic__image.xml" value="0.21574074074074073" />
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/layout/activity_json_apiactivity.xml" value="0.209375" />
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/layout/activity_json_parse.xml" value="0.209375" />
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/layout/activity_movie_dbactivity.xml" value="0.209375" />
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/layout/fragmen_film.xml" value="0.209375" />
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/layout/list_item.xml" value="0.209375" />
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/layout/list_item_film.xml" value="0.209375" />
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/layout/list_row.xml" value="0.209375" />
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/layout/moviedb.xml" value="0.1787037037037037" />
+        <entry key="..\:/AndroidStudioProjects/JsonMovieDB/app/src/main/res/layout/toolbar_main.xml" value="0.1884765625" />
+        <entry key="..\:/Tugas/s4/JsonMovieDB/app/src/main/res/layout/activity_json_parse.xml" value="0.2203125" />
+        <entry key="..\:/Tugas/s4/JsonMovieDB/app/src/main/res/layout/activity_movie_dbactivity.xml" value="0.10739614994934144" />
+        <entry key="..\:/Tugas/s4/JsonMovieDB/app/src/main/res/layout/fragmen_film.xml" value="0.22083333333333333" />
+        <entry key="..\:/Tugas/s4/JsonMovieDB/app/src/main/res/layout/list_item_film.xml" value="0.10739614994934144" />
+        <entry key="..\:/Tugas/s4/JsonMovieDB/app/src/main/res/layout/list_row.xml" value="0.2203125" />
+        <entry key="..\:/Tugas/s4/JsonMovieDB/app/src/main/res/layout/toolbar_main.xml" value="0.22083333333333333" />
+        <entry key="..\:/Tugas/s4/tugasMobile/JsonMovieDB/app/src/main/res/layout/activity_main.xml" value="0.10916919959473151" />
+        <entry key="..\:/Tugas/s4/tugasMobile/JsonMovieDB/app/src/main/res/layout/moviedb.xml" value="0.22447916666666667" />
+        <entry key="..\:/Tugas/s4/tugasMobile/JsonMovieDB/app/src/main/res/layout/toolbar_main.xml" value="0.10916919959473151" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
